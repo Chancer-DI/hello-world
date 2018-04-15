@@ -1,6 +1,6 @@
 # hello-world
 
-First attempt for repository
+## First attempt for repository
 
 Hi all,
 
